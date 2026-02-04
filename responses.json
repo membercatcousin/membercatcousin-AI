@@ -1,0 +1,10 @@
+[
+  {
+    "keywords": ["hi", "hey", "yo", "sup", "hello"],
+    "response": "👋 Hi there! How are you doing today? 😊"
+  },
+  {
+    "keywords": ["neural", "ai", "brain"],
+    "response": "Zero neural networks were harmed in the making of this AI. it's just math."
+  }
+]
