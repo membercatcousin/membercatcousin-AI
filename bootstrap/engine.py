@@ -25,5 +25,5 @@ def process_input(user_input, vibe_data, legacy_data):
 
     if highest_ratio >= 0.6:
         return legacy_data[best_match] # Silent fix - no annoying text
-                
-    return "ResponseNotAvailableException"
+
+    return "ResponseNotAvailableExeption"
