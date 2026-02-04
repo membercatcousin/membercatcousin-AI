@@ -1,0 +1,13 @@
+# Secrets
+settings.yml
+
+# Python bloat
+__pycache__/
+*.py[cod]
+*$py.class
+/bootstrap/__pycache__/
+
+# Environments
+.venv/
+env/
+venv/
