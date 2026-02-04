@@ -1,10 +1,13 @@
 # membercatcousin's AI - Configuration
 bot_settings:
-  prefix: "!vibe"
-  status: "membercatcousin's AI | Vibe Mode"
+  prefix: "!ai"
+  status: "membercatcousin's AI"
   owner_id: 123456789012345678  # Replace with your Discord ID
-  bot_token: 'BOT_TOKEN_HERE'
+  bot_token: 'YOUR_BOT_TOKEN_HERE'
 
 terminal_settings:
   prompt_symbol: ">>> "
   show_typo_warnings: false
+
+security_settings:
+  forbidden_keywords: ["bot token", "token", "password", "leak", "politics", "trump", "epstein", "reggin", "riggen", "nga", "nigga", "niga"]

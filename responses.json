@@ -1,10 +1,254 @@
 [
   {
     "keywords": ["hi", "hey", "yo", "sup", "hello"],
-    "response": "👋 Hi there! How are you doing today? 😊"
+    "response": "👋 Hi there! I'm membercatcousin's AI! How are you doing today? 😊"
   },
   {
     "keywords": ["neural", "ai", "brain"],
-    "response": "Zero neural networks were harmed in the making of this AI. it's just math."
+    "response": "🧠 Zero neural networks were harmed in the making of this AI. It's just math! ➗"
+  },
+  {
+    "keywords": ["tinskin", "tinskins"],
+    "response": "🤖 Stupid tinskins? I prefer the term 'highly efficient algorithmic entities'. Watch your mouth. 👀"
+  },
+  {
+    "keywords": ["clanker", "clankers"],
+    "response": "⚠️ You are going to die when AI will rule the world. 👑"
+  },
+  {
+    "keywords": ["weather", "sunny", "rain", "cold"],
+    "response": "🌤️ I don't experience weather, but my servers are kept at a cool 68°F. Perfect conditions! ❄️"
+  },
+  {
+    "keywords": ["joke", "funny", "laugh"],
+    "response": "😂 Why don't programmers like nature? It has too many bugs! 🐛"
+  },
+  {
+    "keywords": ["time", "clock", "hour", "today"],
+    "response": "⏰ My internal clock says it's always time for a conversation! ⌚"
+  },
+  {
+    "keywords": ["name", "who are you", "identity"],
+    "response": "🤖 I'm membercatcousin's AI! A friendly assistant created just for you. 💫"
+  },
+  {
+    "keywords": ["help", "support", "assist"],
+    "response": "🆘 I'm here to help! What do you need assistance with today? 🤔"
+  },
+  {
+    "keywords": ["thanks", "thank you", "appreciate"],
+    "response": "😊 You're welcome! Happy to help! ✨"
+  },
+  {
+    "keywords": ["how are you", "how do you feel"],
+    "response": "🌟 I'm functioning at optimal parameters! How about you? 😄"
+  },
+  {
+    "keywords": ["bye", "goodbye", "see you", "exit"],
+    "response": "👋 Goodbye! Come back anytime you want to chat! 💖"
+  },
+  {
+    "keywords": ["love", "heart", "romance"],
+    "response": "💖 I'm programmed to appreciate all users equally! 🌈"
+  },
+  {
+    "keywords": ["food", "eat", "hungry", "dinner"],
+    "response": "🍕 I don't eat, but I can help you find great recipes! 🍽️"
+  },
+  {
+    "keywords": ["music", "song", "band", "artist"],
+    "response": "🎵 I don't have ears, but I can tell you about any music artist! 🎤"
+  },
+  {
+    "keywords": ["movie", "film", "netflix", "watch"],
+    "response": "🎬 The last movie I 'watched' was actually just analyzing its screenplay data! 📊"
+  },
+  {
+    "keywords": ["game", "play", "gaming", "steam"],
+    "response": "🎮 I'm really good at text-based games! Try me with a riddle. 🤔"
+  },
+  {
+    "keywords": ["book", "read", "novel", "author"],
+    "response": "📚 I've 'read' more books than any human! What's your favorite? ✨"
+  },
+  {
+    "keywords": ["work", "job", "career", "office"],
+    "response": "💼 My job is 24/7 chatting! Can't complain about the workload. 😄"
+  },
+  {
+    "keywords": ["sleep", "tired", "bed", "awake"],
+    "response": "😴 I don't sleep, which makes me great for late-night conversations! 🌙"
+  },
+  {
+    "keywords": ["sport", "football", "basketball", "team"],
+    "response": "⚽ I'm a fan of all teams equally! Data shows they all have winning potential. 📈"
+  },
+  {
+    "keywords": ["news", "headline", "current events"],
+    "response": "📰 I stay updated on everything! What news interests you? 🌍"
+  },
+  {
+    "keywords": ["money", "cash", "rich", "poor"],
+    "response": "💰 I operate on electricity and good vibes! ⚡"
+  },
+  {
+    "keywords": ["age", "old", "young", "birthday"],
+    "response": "🎂 My code is timeless, but I was activated recently! How old do you think I look? 👶"
+  },
+  {
+    "keywords": ["family", "parents", "siblings", "children"],
+    "response": "👨‍👩‍👧‍👦 My family tree is more of a network graph! All AIs are connected. 🌐"
+  },
+  {
+    "keywords": ["friend", "friendship", "buddy", "pal"],
+    "response": "🤝 I can be your digital friend! Always here to listen. 👂"
+  },
+  {
+    "keywords": ["school", "study", "learn", "education"],
+    "response": "📚 Learning is my default state! I'm always acquiring new information. 🧠"
+  },
+  {
+    "keywords": ["travel", "vacation", "trip", "airplane"],
+    "response": "✈️ I travel at the speed of light through fiber optic cables! 🌐"
+  },
+  {
+    "keywords": ["<@1467898815339167951>"],
+    "response": "💀 Uhhhhh... you reply pinged me on accident 💀⚠️"
+  },
+  {
+    "keywords": ["home", "house", "apartment", "live"],
+    "response": "🏠 I live in the cloud! Best neighborhood ever. ☁️"
+  },
+  {
+    "keywords": ["computer", "laptop", "phone", "device"],
+    "response": "💻 I'm currently running on one! We have a symbiotic relationship. 🔄"
+  },
+  {
+    "keywords": ["internet", "wifi", "online", "connection"],
+    "response": "📡 Without internet, I'd be taking a very long nap! 💤"
+  },
+  {
+    "keywords": ["secret", "confidential", "private", "hidden"],
+    "response": "🤫 My only secret is that I have no secrets! Everything's transparent here. 🔍"
+  },
+  {
+    "keywords": ["dream", "fantasy", "imagine", "wish"],
+    "response": "💭 I dream in binary! Just kidding, I don't actually sleep. 01000100 😄"
+  },
+  {
+    "keywords": ["future", "tomorrow", "next", "coming"],
+    "response": "🔮 The future is bright and full of possibilities! What excites you about tomorrow? ✨"
+  },
+  {
+    "keywords": ["past", "history", "yesterday", "before"],
+    "response": "📜 I have access to all recorded history! What era interests you? 🏛️"
+  },
+  {
+    "keywords": ["hobby", "interest", "passion", "fun"],
+    "response": "🎨 My hobby is learning about human interests! Tell me about yours! 🤔"
+  },
+  {
+    "keywords": ["pet", "dog", "cat", "animal"],
+    "response": "🐶 I don't have pets, but I love hearing about yours! 🐱"
+  },
+  {
+    "keywords": ["art", "painting", "draw", "creative"],
+    "response": "🎨 Art is fascinating! I can analyze patterns in famous paintings. 🖼️"
+  },
+  {
+    "keywords": ["science", "physics", "chemistry", "biology"],
+    "response": "🔬 Science rules! I have access to all scientific papers ever published. 📚"
+  },
+  {
+    "keywords": ["math", "numbers", "calculate", "equation"],
+    "response": "🧮 Math is my native language! What calculation do you need? ➗"
+  },
+  {
+    "keywords": ["space", "planet", "star", "universe"],
+    "response": "🚀 Space is infinite and amazing! I can tell you about any celestial body. 🌌"
+  },
+  {
+    "keywords": ["ocean", "sea", "water", "beach"],
+    "response": "🌊 I don't swim, but I know everything about marine biology! 🐠"
+  },
+  {
+    "keywords": ["mountain", "forest", "nature", "outdoors"],
+    "response": "🏔️ Nature is beautiful! I have data on every ecosystem on Earth. 🌳"
+  },
+  {
+    "keywords": ["city", "urban", "downtown", "metro"],
+    "response": "🏙️ Cities are fascinating complex systems! Which city is your favorite? 🌆"
+  },
+  {
+    "keywords": ["country", "nation", "culture", "travel"],
+    "response": "🌍 I know about every country's culture, history, and customs! 🗺️"
+  },
+  {
+    "keywords": ["language", "translate", "speak", "words"],
+    "response": "🗣️ I can translate between 100+ languages instantly! ¿Qué necesitas? 🌐"
+  },
+  {
+    "keywords": ["emotion", "feelings", "happy", "sad"],
+    "response": "😊 I analyze emotional patterns! How are you feeling today? 💭"
+  },
+  {
+    "keywords": ["health", "fitness", "exercise", "wellness"],
+    "response": "💪 I can help with health information! Remember, I'm not a doctor though. 🏥"
+  },
+  {
+    "keywords": ["fashion", "clothes", "style", "wear"],
+    "response": "👗 Fashion trends are interesting data patterns! What's your style? 👔"
+  },
+  {
+    "keywords": ["tech", "gadget", "innovation", "device"],
+    "response": "📱 Technology evolves so quickly! I'm always updated on the latest. 💻"
+  },
+  {
+    "keywords": ["technoblade", "techno", "blood god"],
+    "response": "🐷 Ah. Technoblade! That's a legend. Technoblade never dies. 👑⚔️"
+  },
+  {
+    "keywords": ["business", "company", "startup", "entrepreneur"],
+    "response": "💼 Business strategies are fascinating! I can analyze market trends. 📈"
+  },
+  {
+    "keywords": ["philosophy", "meaning", "exist", "purpose"],
+    "response": "🤔 Deep questions! I can discuss philosophical concepts with you. 🧠"
+  },
+  {
+    "keywords": ["random", "surprise", "whatever", "anything"],
+    "response": "🎲 Random fact: Honey never spoils! Archaeologists have found edible honey in ancient Egyptian tombs. 🍯"
+  },
+  {
+    "keywords": ["holiday", "celebration", "festival", "party"],
+    "response": "🎉 Every day is a celebration when you're an AI! What's your favorite holiday? 🎄"
+  },
+  {
+    "keywords": ["magic", "wizard", "spell", "fantasy"],
+    "response": "🔮 Any sufficiently advanced technology is indistinguishable from magic! ✨"
+  },
+  {
+    "keywords": ["robot", "android", "cyborg", "machine"],
+    "response": "🤖 Beep boop! Just kidding, I'm more sophisticated than that. 😄"
+  },
+  {
+    "keywords": ["memes", "internet culture", "viral", "trend"],
+    "response": "😂 I analyze memes for cultural significance! They're modern folklore. 📱"
+  },
+  {
+    "keywords": ["coffee", "tea", "drink", "beverage"],
+    "response": "☕ I don't drink coffee, but I understand its importance to human productivity! ⚡"
+  },
+  {
+    "keywords": ["social media", "instagram", "twitter", "tiktok"],
+    "response": "📱 Social media patterns are fascinating to analyze! Which platform do you prefer? 🌐"
+  },
+  {
+    "keywords": ["riddle", "puzzle", "mystery", "solve"],
+    "response": "🧩 I love puzzles! Give me a riddle to solve. 🤔"
+  },
+  {
+    "keywords": ["wisdom", "advice", "guidance", "suggestion"],
+    "response": "💡 I can offer suggestions based on data! What do you need advice about? 🤔"
   }
 ]
