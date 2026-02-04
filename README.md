@@ -15,4 +15,5 @@ A continuation of VOXELWARE AI due to the organisation having a clear goal (spoi
 - Terminal mode
 - Discord mode
 - Algorithmic responses
-- legacy responses
+- L.
+- egacy responses
