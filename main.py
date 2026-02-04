@@ -1,46 +1,32 @@
 import sys
-from bootstrap.responses_loader import load_all_data
+from bootstrap.responses_loader import load_all_data, load_settings
 from bootstrap.on_start import get_prefix, system_check
 from bootstrap.engine import process_input
 
 def run():
-    # 1. Boot up
     vibe_data, legacy_data = load_all_data()
+    settings = load_settings()
     prefix = get_prefix()
 
-    if not system_check(vibe_data, legacy_data):
-        print(f"{prefix}Error - Brain files not found.")
-        return
+    # Get terminal settings from YAML
+    term_conf = settings.get('terminal_settings', {})
+    prompt = term_conf.get('prompt_symbol', '>>> ')
 
-    # 2. Check if the user gave arguments (Single-Shot Mode)
     if len(sys.argv) > 1:
         user_query = " ".join(sys.argv[1:])
-        response = process_input(user_query, vibe_data, legacy_data)
-        print(f"{prefix}{response}")
+        print(f"{prefix}{process_input(user_query, vibe_data, legacy_data)}")
         return
 
-    # 3. Interactive Mode (The Conversation Loop)
-    print(f"{prefix}Interactive session started. Type 'exit' to quit.")
-    print("-" * 30)
-    
+    print(f"{prefix}Interactive session. Type 'exit' to quit.")
+
     while True:
-        # Use a cool custom prompt
         try:
-            user_query = input(">>> ").strip()
-        except EOFError: # Handles Ctrl+D
-            break
+            user_query = input(prompt).strip() # Uses YAML prompt
+        except EOFError: break
+        if user_query.lower() in ["exit", "quit"]: break
+        if not user_query: continue
 
-        # Exit conditions
-        if user_query.lower() in ["exit", "quit", "bye"]:
-            print(f"{prefix}Session ended. See ya.")
-            break
-            
-        if not user_query:
-            continue
-
-        # Process and Output
-        response = process_input(user_query, vibe_data, legacy_data)
-        print(f"{prefix}{response}")
+        print(f"{prefix}{process_input(user_query, vibe_data, legacy_data)}")
 
 if __name__ == "__main__":
     run()
