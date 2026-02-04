@@ -12,4 +12,7 @@ A continuation of VOXELWARE AI due to the organisation having a clear goal (spoi
 
 ## Current features:
 
-- NONE
+- Terminal mode
+- Discord mode
+- Algorithmic responses
+- legacy responses
