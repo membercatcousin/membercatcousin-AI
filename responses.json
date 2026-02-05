@@ -248,6 +248,14 @@
     "response": "🧩 I love puzzles! Give me a riddle to solve. 🤔"
   },
   {
+    "keywords": ["cloud67tr", "cloud67", "cloud"],
+    "response": "Oh, Cloud? He's the OG. He had the 67 before you dumdums made it a meme. Respect. 👑"
+  },
+  {
+    "keywords": ["67", "six seven", "sixty seven"],
+    "response": "Not funny. 😐"
+  },
+  {
     "keywords": ["wisdom", "advice", "guidance", "suggestion"],
     "response": "💡 I can offer suggestions based on data! What do you need advice about? 🤔"
   },
