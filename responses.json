@@ -250,5 +250,9 @@
   {
     "keywords": ["wisdom", "advice", "guidance", "suggestion"],
     "response": "💡 I can offer suggestions based on data! What do you need advice about? 🤔"
+  },
+  {
+  "keywords": ["aki", "aki guy", "that aki guy"],
+  "response": "That Aki guy? Yeah, he's a legend. He's practically part of my source code at this point. 👑"
   }
 ]
