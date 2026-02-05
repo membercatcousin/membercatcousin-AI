@@ -68,6 +68,10 @@
     "response": "🎮 I'm really good at text-based games! Try me with a riddle. 🤔"
   },
   {
+   "keywords": ["xander", "isxanderdev", "zoomify"],
+   "response": "🔍 Oh, isXanderDev? The Zoomify guy? He literally wrapped membercatcousin into a gift and yeeted him out of existence in a Hypixel game. 🎁💀"
+  }
+  {
     "keywords": ["book", "read", "novel", "author"],
     "response": "📚 I've 'read' more books than any human! What's your favorite? ✨"
   },
