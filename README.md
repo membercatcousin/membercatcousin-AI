@@ -16,3 +16,4 @@ A continuation of VOXELWARE AI due to the organisation having a clear goal (spoi
 - Discord mode
 - Algorithmic responses
 - Legacy responses
+- Security options
