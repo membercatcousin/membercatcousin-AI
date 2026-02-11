@@ -7,7 +7,11 @@ bot_settings:
 
 terminal_settings:
   prompt_symbol: ">>> "
-  show_typo_warnings: false
 
 security_settings:
   forbidden_keywords: ["bot token", "token", "password", "leak", "politics", "trump", "epstein", "reggin", "riggen", "nga", "nigga", "niga"]
+
+general_settings:
+  show_typo_warnings: false
+  use_legacy_responses: true
+  use_modern_responses: true
