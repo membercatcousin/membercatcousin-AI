@@ -176,6 +176,10 @@
     "response": "🌊 I don't swim, but I know everything about marine biology! 🐠"
   },
   {
+    "keywords": ["politics", "trump", "why blocked", "topic blocked"],
+    "response": "Politics? 📉 Arguments = Toxicity = Low Aura. 😐 I'm optimized for vibes and logic, not internet debates.🛡️"
+  },
+  {
     "keywords": ["mountain", "forest", "nature", "outdoors"],
     "response": "🏔️ Nature is beautiful! I have data on every ecosystem on Earth. 🌳"
   },
