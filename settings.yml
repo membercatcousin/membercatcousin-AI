@@ -3,7 +3,7 @@ bot_settings:
   prefix: "!ai"
   status: "membercatcousin's AI"
   owner_id: 123456789012345678  # Replace with your Discord ID
-  bot_token: 'YOUR_BOT_TOKEN_HERE'
+  bot_token_file: 'token.txt' # Replace with your bot token file filename
 
 terminal_settings:
   prompt_symbol: ">>> "
