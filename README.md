@@ -6,7 +6,6 @@ A continuation of VOXELWARE AI due to the organisation having a clear goal (spoi
 
 ## Future Path:
 
-- Algorithmic responses instead of traditional neural networks
 - built-in 'How to' tutorials
 - EVEN MORE STUFF
 
